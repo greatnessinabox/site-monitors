@@ -130,19 +130,19 @@
     "url": "https://unanimousmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/unanimousmedia.com.ico",
     "slug": "unanimous-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 836,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "94.91%",
+    "uptimeDay": "80.42%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "94.91%",
+    "time": 265,
+    "timeDay": 505,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-01-14": 0
+      "2023-01-14": 282
     }
   }
 ]
